@@ -1,5 +1,5 @@
 ## Screenshot System
-[https://github.com/muhammedmunir/Assigment-2/issues/1#issue-2304098853](https://private-user-images.githubusercontent.com/116609347/331805674-51c1ef8b-d68c-4339-951c-d6f0d48b4a27.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwNDA2ODcsIm5iZiI6MTcxNjA0MDM4NywicGF0aCI6Ii8xMTY2MDkzNDcvMzMxODA1Njc0LTUxYzFlZjhiLWQ2OGMtNDMzOS05NTFjLWQ2ZjBkNDhiNGEyNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxOFQxMzUzMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZDM1NGVkNTRiMzZlNzUyZDNlMjljMmVlZjA1ODg2MDk5MjNjOWMxZWVhMjFlMjk4YWZkNzc0Zjc2ZTkwMTQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.6vqyqPX7F4b-05G3_KdA_Panyb9-DKe8zqUDTJqIrhw)
+![image](https://github.com/muhammedmunir/Assigment-2/assets/116609347/51c1ef8b-d68c-4339-951c-d6f0d48b4a27)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
